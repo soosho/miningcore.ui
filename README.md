@@ -39,6 +39,7 @@ Discord: `sooxo_0`
 
 ## 🚀 Quick Preview
 
+![screencapture-myalephiumpool-click-miners-alph1-1MUEfnNdrbm75DBMmbUA6v4tMpspKGg879NTKid3WsLz-2025-04-12-03_45_43](https://github.com/user-attachments/assets/0e472fe8-85ad-4d50-90f0-1030501becfe)
 ![6FB15B06-BC13-47DF-9DA1-3D032556A013](https://github.com/user-attachments/assets/e8cde50d-36f6-45a7-9593-c0a40e48520d)
 ![BD0BC95C-5CD3-4431-AB00-D3912E009908](https://github.com/user-attachments/assets/6ac32dd2-55f2-4e9c-8833-cc9792813e31)
 ![screencapture-web-inodes-one-2025-04-11-00_47_13](https://github.com/user-attachments/assets/68700c1c-12d1-4555-8fc0-ac1000066a3c)
