@@ -1,8 +1,9 @@
 # Miningcore.UI
 
 A modern, open-source Miningcore UI built with **Next.js 15**, **Tailwind CSS**, and **ShadCN UI**.  
-Live Demo 👉 [next-miningcore-ui.vercel.app](https://next-miningcore-ui.vercel.app)
-
+Live Demo 
+👉 [next-miningcore-ui.vercel.app](https://next-miningcore-ui.vercel.app)
+👉 [pool.tenzura.io](https://pool.tenzura.io)
 ---
 
 ## 📌 About
