@@ -4,7 +4,7 @@ A modern, open-source Miningcore UI built with **Next.js 15**, **Tailwind CSS**,
 
 Live Demo
 👉 Old Version - [pool.tenzura.io](https://pool.tenzura.io)
-👉 Newer Version - [heroichashers.com](https://heroichashers.com)
+👉 Newer Version - [heroichashers.com](https://heroichashers.com) - smartpoolmining.com
 ---
 
 ## 📌 About
