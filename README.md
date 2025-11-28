@@ -36,6 +36,8 @@ If you're running a Miningcore pool and want a production-grade UI, this project
 
 ## 🆕 Key Features (2025)
 
+<img width="1920" height="2711" alt="screencapture-placepool-pro-pools-raptoreum-2025-11-29-03_18_46" src="https://github.com/user-attachments/assets/00ef25b5-4bad-4b94-83c0-d2b8599f0648" />
+
 ### ⚡ Real-Time Engine
 
 * WebSocket streaming + DB changefeed for instant UI updates
