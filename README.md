@@ -60,6 +60,8 @@ Built-in languages: English, Russian, Chinese (Simplified), Spanish.
 * Dynamic detection of coin parameters from Miningcore API
 * Supports Alephium, Radiant, and any other Miningcore-compatible coin
 
+<img width="739" height="819" alt="image" src="https://github.com/user-attachments/assets/2cc7bcbb-0b26-402e-a238-3d70f74d463f" />
+
 ---
 
 ## 🛠 Tech Stack
