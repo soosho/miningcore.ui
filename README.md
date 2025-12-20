@@ -16,7 +16,7 @@ This UI is designed for Miningcore pool operators who want a **fast**, **clean**
 **New Version (2025)**
 
 * [https://placepool.pro](https://placepool.pro)
-* [https://blazeminers.com](https://blazeminers.com)
+* [https://ourpool.xyz](https://ourpool.xyz)
 ---
 
 ## 📌 About
