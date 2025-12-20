@@ -1,7 +1,7 @@
 # Miningcore.UI — Next Generation Mining Pool Dashboard
 
 <img width="1911" height="906" alt="image" src="https://github.com/user-attachments/assets/0ea09d37-18bc-45b3-a6da-12744b12f36e" />
-<img width="1915" height="910" alt="image" src="https://github.com/user-attachments/assets/f59472fa-4b83-4389-bec4-725fbfb04fc3" />
+<img width="1920" height="3497" alt="screencapture-ourpool-xyz-2025-12-21-07_41_34" src="https://github.com/user-attachments/assets/f4dfabc5-b698-42a2-ab0f-d1357a9ec195" />
 
 
 
