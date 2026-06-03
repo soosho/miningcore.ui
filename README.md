@@ -92,7 +92,7 @@ If you want to **purchase the production-ready UI**, contact the creator using t
 * GitHub: [https://github.com/soosho](https://github.com/soosho)
 * Twitter/X: [https://x.com/tenzura_io](https://x.com/tenzura_io)
 * Email: [soosho@proton.me](mailto:soosho@proton.me)
-* Telegram: [https://t.me/Sooxu_0](https://t.me/Sooxu_0)
+* Telegram: [https://t.me/soosho_dev](https://t.me/soosho_dev)
 * Discord: `sooxo_0`
 
 ---
